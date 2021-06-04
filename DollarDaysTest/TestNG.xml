@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name= "DOllarDays">
+	<listeners>
+		<listener class-name="com.Dollardays.utilities.Reporting"></listener>
+	</listeners>
+	<test name="DollarDays Test">
+   		<parameter name="browser" value="chrome"/>
+    	<classes>
+     <!-- 		<class name= "com.Dollardays.testcases.Tc_LoginTest_001"/>  -->
+    <!--  		 <class name= "com.Dollardays.testcases.Tc_loginDDT_002"/>  -->
+   				<class name="com.Dollardays.testcases.Tc_Wishlist_003"/> 
+     		
+     	</classes>
+     </test>     
+</suite>
+ 

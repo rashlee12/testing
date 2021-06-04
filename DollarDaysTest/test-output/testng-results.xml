@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DOllarDays" duration-ms="20877" started-at="2021-06-04T15:35:39 EDT" finished-at="2021-06-04T15:36:00 EDT">
+    <groups>
+    </groups>
+    <test name="DollarDays Test" duration-ms="20877" started-at="2021-06-04T15:35:39 EDT" finished-at="2021-06-04T15:36:00 EDT">
+      <class name="com.Dollardays.testcases.Tc_Wishlist_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Dollardays.testcases.Tc_Wishlist_003@1e965684]" name="setup" is-config="true" duration-ms="9175" started-at="2021-06-04T15:35:39 EDT" finished-at="2021-06-04T15:35:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Wishlist()[pri:0, instance:com.Dollardays.testcases.Tc_Wishlist_003@1e965684]" name="Wishlist" duration-ms="11358" started-at="2021-06-04T15:35:49 EDT" finished-at="2021-06-04T15:36:00 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Wishlist -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Dollardays.testcases.Tc_Wishlist_003@1e965684]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-06-04T15:36:00 EDT" finished-at="2021-06-04T15:36:00 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Dollardays.testcases.Tc_Wishlist_003 -->
+    </test> <!-- DollarDays Test -->
+  </suite> <!-- DOllarDays -->
+</testng-results>
